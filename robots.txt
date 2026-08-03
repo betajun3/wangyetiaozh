@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://betajun3.github.io/wangyetiaozh/sitemap.xml
